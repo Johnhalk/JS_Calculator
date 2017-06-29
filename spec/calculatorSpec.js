@@ -1,6 +1,6 @@
 'use strict';
 
-descrive('Calculator', function() {
+describe('Calculator', function() {
 
   var calculator;
 
